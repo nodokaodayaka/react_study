@@ -1,2 +1,7 @@
-# react_study
-React 初学
+# react 勉強
+## 勉強しているサイト
+- ### https://mae.chab.in/archives/2529
+
+## 第一日目
+### ブラウザで実施できる状態を確認
+### コンポーネントとは何かを確認
